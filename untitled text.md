@@ -1,6 +1,7 @@
 
 
 **Page like effect** is  iOS application.
+
 ![](gif/2.gif) 
 
 
@@ -26,6 +27,7 @@
 
 
 **Massage Resevation application** is  iOS application.
+
 ![](gif/resevation Application.gif)
 
 
@@ -33,14 +35,16 @@
 
 
 
-**iTransBuddy ** is  iOS application.
+**iTransBuddy** is  iOS application.
+
 ![](gif/3.gif)
 
 
 
 
 
-**Coupon application ** is  iOS application.
+**Coupon application** is  iOS application.
+
 ![](gif/Coupn application.gif)
 
 
@@ -49,7 +53,8 @@
 
 
 
-**Food Near U ** is  iOS application.
+**Food Near U** is  iOS application.
+
 ![](gif/foodNearYou.gif)
 
 
@@ -58,6 +63,7 @@
 
 
 **Virtual reality application** is  iOS application.
+
 ![](gif/Panoramic video (VR app).gif)
 
 
