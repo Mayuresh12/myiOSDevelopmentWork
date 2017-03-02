@@ -24,6 +24,11 @@
 
 
 
+**Virtual reality application** is  iOS application.
+
+![](gif/Panoramic video (VR app).gif)
+
+
 
 
 **Massage Resevation application** is  iOS application.
@@ -61,10 +66,6 @@
 
 
 
-
-**Virtual reality application** is  iOS application.
-
-![](gif/Panoramic video (VR app).gif)
 
 
 
