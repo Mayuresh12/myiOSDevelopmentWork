@@ -1,4 +1,4 @@
 ![](gif/2.gif)
 
 
-![](gif/iTransbuddy.mov)
+![](gif/iTransbuddy.gif)
