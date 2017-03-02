@@ -2,7 +2,7 @@
 ![](gif/2.gif) 
 
 
-<img align="right" width="200" height="600" src="![](gif/2.gif)">
+<img align="right" width="400" height="600" src="![](gif/2.gif)">
 
 ![](gif/3.gif)
 
