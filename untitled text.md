@@ -9,14 +9,8 @@
 
 **Pinterest like application using the colectio views** is  application for iOS.
 
-
-
-**Pinterest horizontal scroll**
 ![](gif/pin_horizontal.gif)
 
-
-
-**Pinterest vertical scroll**
 ![](gif/pin_vertical.gif)
 
 
