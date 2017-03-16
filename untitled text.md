@@ -1,6 +1,6 @@
 
 
-**Page like effect** is  iOS application.
+**Page like effect** in  iOS .
 
 ![](gif/2.gif) 
 
@@ -10,7 +10,7 @@
 
 
 
-**Pinterest like application using the colectio views** is  application for iOS.
+**Pinterest like application using the collection views** in iOS.
 
 
 
@@ -24,14 +24,14 @@
 
 
 
-**Virtual reality application** is  iOS application.
+**Virtual reality application** in iOS.
 
 ![](gif/Panoramic video (VR app).gif)
 
 
 
 
-**Massage Resevation application** is  iOS application.
+**Massage Resevation application** in iOS.
 
 ![](gif/resevation Application.gif)
 
@@ -40,7 +40,7 @@
 
 
 
-**iTransBuddy** is  iOS application.
+**iTransBuddy** in iOS.
 
 ![](gif/3.gif)
 
@@ -48,7 +48,7 @@
 
 
 
-**Coupon application** is  iOS application.
+**Coupon application** in iOS.
 
 ![](gif/Coupn application.gif)
 
@@ -58,7 +58,7 @@
 
 
 
-**Food Near U** is  iOS application.
+**Food Near U** in iOS.
 
 ![](gif/foodNearYou.gif)
 
