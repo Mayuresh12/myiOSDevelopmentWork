@@ -26,7 +26,7 @@
 
 **Virtual reality application** in iOS.
 
-![](gif/Panoramicvideo(VR app).gif)
+![](gif/Panoramicvideo(VRapp).gif)
 
 
 
