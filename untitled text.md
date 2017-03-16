@@ -26,14 +26,14 @@
 
 **Virtual reality application** in iOS.
 
-![](gif/Panoramic video (VR app).gif)
+![](gif/Panoramicvideo(VR app).gif)
 
 
 
 
 **Massage Resevation application** in iOS.
 
-![](gif/resevation Application.gif)
+![](gif/resevationApplication.gif)
 
 
 
@@ -50,7 +50,7 @@
 
 **Coupon application** in iOS.
 
-![](gif/Coupn application.gif)
+![](gif/Coupnapplication.gif)
 
 
 
