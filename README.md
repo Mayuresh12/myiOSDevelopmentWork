@@ -3,31 +3,6 @@ Mayuresh Rao iOS portfolio
 
 
 
-
-**Page like effect** in  iOS .
-
-![](gif/2.gif) 
-
-
-
-
-
-
-
-**Pinterest like application using the collection views** in iOS.
-
-
-
-![](gif/pin_horizontal.gif)
-
-
-
-![](gif/pin_vertical.gif)
-
-
-
-
-
 **Virtual reality application** in iOS.
 
 ![](gif/Panoramicvideo(VRapp).gif)
@@ -60,11 +35,33 @@ Mayuresh Rao iOS portfolio
 
 
 
-
-
 **Food Near U** in iOS.
 
 ![](gif/foodNearYou.gif)
+
+
+
+
+
+**Page like effect** in  iOS .
+
+![](gif/2.gif) 
+
+
+
+
+
+
+
+**Pinterest like application using the collection views** in iOS.
+
+
+
+![](gif/pin_horizontal.gif)
+
+
+
+![](gif/pin_vertical.gif)
 
 
 
