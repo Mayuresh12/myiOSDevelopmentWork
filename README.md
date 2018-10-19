@@ -1,5 +1,5 @@
 # myiOSDevelopmentWork
-Mayuresh Rao iOS portfolio.
+Mayuresh Rao iOS portfolio
 
 
 
